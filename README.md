@@ -23,7 +23,7 @@ NLP: Transformers, Hugging Face, SpaCy, NLTK
 Data Visualization: D3.js, Plotly, Tableau, Power BI, Matplotlib, Seaborn
 
 ## 🌍 Live Demo
-Check out the live portfolio here: (https://PriyaKashyap.github.io/portfolio/)
+Check out the live portfolio here: (https://priyakashyapp.github.io/Portfolio/)
 
 ## 📂 My Projects
 Explore my GitHub repositories for detailed projects in **Machine Learning, NLP, and RAG**:
